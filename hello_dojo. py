@@ -1,0 +1,16 @@
+#Delete the beginning
+
+#example
+
+print   """
+Hello World!
+"""
+
+print """
+Digimon
+"""
+
+
+print """
+KARTHIK LOVES VEDANT
+"""
